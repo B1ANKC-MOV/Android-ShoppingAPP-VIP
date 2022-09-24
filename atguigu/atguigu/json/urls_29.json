@@ -1,0 +1,233 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": {
+        "brand_data": false,
+        "catalog_data": false,
+        "is_recommended": "1",
+        "page_data": [
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "6",
+                "cover_price": "9.90",
+                "figure": "/1438946011155.jpg",
+                "name": "【岁月坊】手工本水墨风之墨荷",
+                "origin_price": "15.90",
+                "p_catalog_id": "32",
+                "product_id": "614"
+            },
+            {
+                "brand_id": "5",
+                "brief": "封面材质：250克特种布纹纸彩印（如图带灰色小流苏）内页材质：80克进口木浆牛皮纸彩印 （纯空白内页）内页尺寸：110x177mm（因裁切需要，允许2mm左右误差）装订详情：约70张装入 约8mm左右厚度封底材质：250克特种布纹纸彩印",
+                "channel_id": "6",
+                "cover_price": "9.90",
+                "figure": "/1438946176424.jpg",
+                "name": "【岁月坊】古风线装本 手工本 中国风水墨系列之兰",
+                "origin_price": "15.90",
+                "p_catalog_id": "32",
+                "product_id": "615"
+            },
+            {
+                "brand_id": "5",
+                "brief": "  封面、封底材质为：250克美国牛卡彩印。  尺寸：190*130mm（裁切需要，允许2mm误差）  装订方式：手工线穿装订（配有木珠）  内页为：80克进口木浆牛皮纸 无印刷空白内页（约70张 8mm厚）",
+                "channel_id": "6",
+                "cover_price": "9.90",
+                "figure": "/1438945369715.jpg",
+                "name": "【岁月坊】线装手工本国画系列墨迹·牡丹",
+                "origin_price": "15.90",
+                "p_catalog_id": "32",
+                "product_id": "612"
+            },
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "6",
+                "cover_price": "12.00",
+                "figure": "/1452829704871.jpg",
+                "name": "【岁月坊】 古文艺手工礼品本 古风.水彩系列之烟色扉然",
+                "origin_price": "19.00",
+                "p_catalog_id": "32",
+                "product_id": "4096"
+            },
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "11",
+                "cover_price": "10.00",
+                "figure": "/1465975841655.jpg",
+                "name": "【岁月坊】手工线装 中国风 雅韵系列手工本 红梅",
+                "origin_price": "10.00",
+                "p_catalog_id": "32",
+                "product_id": "7071"
+            },
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "11",
+                "cover_price": "9.90",
+                "figure": "/1466153550265.jpg",
+                "name": "【岁月坊】唯美复古 中国风 线装礼品本 竖线内页款  清莲醉碧渊",
+                "origin_price": "9.90",
+                "p_catalog_id": "32",
+                "product_id": "7222"
+            },
+            {
+                "brand_id": "5",
+                "brief": "强大的教程配备（含1比1图纸、制作步骤、详细全彩纸质教程+全彩基础纸质教程）；进口优质羊毛，细腻、顺滑、不毛躁，充足的羊毛量，新手也不怕失误！买材料包没有这些，那干嘛还需要材料包呢？？？ 电子教程：http://pan.baidu.com/s/1ntsRDyx，提取码：n76h",
+                "channel_id": "3",
+                "cover_price": "6.00",
+                "figure": "/1457513867138.jpg",
+                "name": "【啊哦手工坊】羊毛毡戳戳乐材料包 diy 猫爪2色 挂件手机绳防尘塞",
+                "origin_price": "6.00",
+                "p_catalog_id": "30",
+                "product_id": "5192"
+            },
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "6",
+                "cover_price": "12.00",
+                "figure": "/1452829334513.jpg",
+                "name": "【岁月坊】古文艺手工礼品本 古风.水彩系列之乱入芙蓉池",
+                "origin_price": "19.00",
+                "p_catalog_id": "32",
+                "product_id": "4095"
+            },
+            {
+                "brand_id": "5",
+                "brief": "强大的教程配备（含1比1图纸、制作步骤、详细全彩纸质教程+全彩基础纸质教程）；进口优质羊毛，细腻、顺滑、不毛躁，充足的羊毛量，新手也不怕失误！买材料包没有这些，那干嘛还需要材料包呢？？？ 电子教程：http://pan.baidu.com/s/1ntsRDyx，提取码：n76h",
+                "channel_id": "3",
+                "cover_price": "6.00",
+                "figure": "/1457515655102.jpg",
+                "name": "【啊哦手工坊】羊毛毡戳戳乐材料包 DIY 情侣款北极熊手机绳挂件摆件",
+                "origin_price": "6.00",
+                "p_catalog_id": "30",
+                "product_id": "5196"
+            },
+            {
+                "brand_id": "5",
+                "brief": "强大的教程配备（含1比1图纸、制作步骤、详细全彩纸质教程+全彩基础纸质教程）；进口优质羊毛，细腻、顺滑、不毛躁，充足的羊毛量，新手也不怕失误！买材料包没有这些，那干嘛还需要材料包呢？？？
+电子教程：http://pan.baidu.com/s/1ntsRDyx，提取码：n76h",
+                "channel_id": "3",
+                "cover_price": "13.00",
+                "figure": "/1457508990383.jpg",
+                "name": "【啊哦手工坊】羊毛毡戳戳乐材料包 diy 12生肖可爱羊毛毡防尘塞",
+                "origin_price": "13.00",
+                "p_catalog_id": "30",
+                "product_id": "5185"
+            },
+            {
+                "brand_id": "286",
+                "brief": "",
+                "channel_id": "5",
+                "cover_price": "85.00",
+                "figure": "/supplier/1476783524896.jpg",
+                "name": "【海鸟跨境】韩国原装悦诗风吟绿茶平衡型乳液",
+                "origin_price": "85.00",
+                "p_catalog_id": "21",
+                "product_id": "9978"
+            },
+            {
+                "brand_id": "286",
+                "brief": "",
+                "channel_id": "5",
+                "cover_price": "85.00",
+                "figure": "/supplier/1476783181896.jpg",
+                "name": "【海鸟跨境】韩国原装悦诗风吟绿茶平衡型爽肤水",
+                "origin_price": "85.00",
+                "p_catalog_id": "21",
+                "product_id": "9977"
+            },
+            {
+                "brand_id": "286",
+                "brief": "",
+                "channel_id": "5",
+                "cover_price": "55.00",
+                "figure": "/supplier/1476782471175.jpg",
+                "name": "【海鸟跨境】韩国原装悦诗风吟火山岩泥洗面奶",
+                "origin_price": "55.00",
+                "p_catalog_id": "21",
+                "product_id": "9975"
+            },
+            {
+                "brand_id": "286",
+                "brief": "",
+                "channel_id": "5",
+                "cover_price": "55.00",
+                "figure": "/supplier/1476781743285.jpg",
+                "name": "【海鸟跨境】韩国原装悦诗风吟绿茶洗面奶",
+                "origin_price": "55.00",
+                "p_catalog_id": "21",
+                "product_id": "9973"
+            },
+            {
+                "brand_id": "3",
+                "brief": "うちっちー是日本静冈县的吉祥物，模样是一只胖乎乎、蠢萌蠢萌的海象。《Love Live! Sunshine!!》动画中也有出现噢~静冈是另一个奇迹：校园偶像Aqours的发源地。うちっちー主题连体睡衣，可爱的布偶装外观，加厚法兰绒面料穿上很暖和。
+",
+                "channel_id": "8",
+                "cover_price": "122.32",
+                "figure": "/1472096222058.jpg",
+                "name": "【绝对萌域】 LoveLive sunshine 水团 静冈县吉祥物 家居服 可爱连体睡衣",
+                "origin_price": "139.00",
+                "p_catalog_id": "52",
+                "product_id": "8941"
+            },
+            {
+                "brand_id": "3",
+                "brief": "",
+                "channel_id": "15",
+                "cover_price": "29.00",
+                "figure": "/1445919231476.jpg",
+                "name": "【画影】古风黑檀木发簪——静荷",
+                "origin_price": "35.00",
+                "p_catalog_id": "71",
+                "product_id": "2452"
+            },
+            {
+                "brand_id": "254",
+                "brief": "预售期至12月16日，出货后将按订单顺序安排发货噢~",
+                "channel_id": "4",
+                "cover_price": "129.00",
+                "figure": "/1478773271555.jpg",
+                "name": "预售【漫踪】尚硅谷电吹风筒可折叠静音 亚索面对疾风吧吹风机",
+                "origin_price": "0.00",
+                "p_catalog_id": "90",
+                "product_id": "10616"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478770777024.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 静静看着",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10607"
+            },
+            {
+                "brand_id": "368",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "45.00",
+                "figure": "/1465873803495.jpg",
+                "name": "【喵鹿酱】Girlwill 游泳圈湿器 办公室 静化空气USB迷你加湿器桌面加湿器",
+                "origin_price": "66.00",
+                "p_catalog_id": "90",
+                "product_id": "7026"
+            },
+            {
+                "brand_id": "182",
+                "brief": "OVO，告诉小谷，临也香不香",
+                "channel_id": "3",
+                "cover_price": "108.00",
+                "figure": "/1451022524289.jpg",
+                "name": "【天闻角川】无头骑士异闻录DuRaRaRa!!×2香水套装（赠包饰）静雄款",
+                "origin_price": "128.00",
+                "p_catalog_id": "21",
+                "product_id": "3695"
+            }
+        ]
+    }
+}

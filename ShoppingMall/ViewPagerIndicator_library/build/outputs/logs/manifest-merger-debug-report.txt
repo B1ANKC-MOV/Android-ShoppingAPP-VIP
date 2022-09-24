@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:3:1-10:12
+	package
+		ADDED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:7:5-32
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:5:5-51
+	xmlns:android
+		ADDED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml:6:5-29
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+		ADDED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+		ADDED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml
+		INJECTED from D:\android\APP_TAOBAO\VIP\ShoppingMall\ShoppingMall\ShoppingMall\ViewPagerIndicator_library\src\main\AndroidManifest.xml

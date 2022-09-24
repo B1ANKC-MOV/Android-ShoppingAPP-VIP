@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html style="font-size: 20px">
+<head>
+    <title>二次元狂欢购物节-次元仓</title>
+    <meta charset="utf-8" />
+    <meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" name="viewport">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="keywords" content="次元仓,cycang.com,二次元,ACG,精品,正品,特卖" />
+    <meta name="description" content="二次元狂欢购物节-次元仓" />
+    <meta property="qc:admins" content="347517207463131676375713420160510274145" />
+    <script>
+        var winWidth = document.documentElement.clientWidth;
+        if(winWidth < 640){
+            document.getElementsByTagName('html')[0].style.fontSize = winWidth * 0.0625 + 'px';
+        }else{
+            document.getElementsByTagName('html')[0].style.fontSize = '40px';
+        }
+    </script>
+    <link rel="stylesheet" href="http://act.cycangcdn.com/css/double11_wap.css" type="text/css">
+    <link rel="stylesheet" href="http://act.cycangcdn.com/css/layer.css" type="text/css">
+</head>
+<body>
+    <article>
+        <header>
+            <img src="http://act.cycangcdn.com/20161111/wap/banner.png" alt="banner">
+        </header>
+        
+        <!--介绍-->
+        <section class="c_intro">
+            <div class="c_intro_wrap">
+                <p>11.11-11.13小仓带你嗨翻二次元狂欢购物节，心机仓为你们准备了两大玩法，分别是优惠券闪购和品牌折扣，优惠券加上折扣，这个实惠是妥妥的~<br>（小仓密语：活动期间购买次元仓自营商品送小仓贴纸）</p>
+            </div>
+        </section>
+
+        <!--优惠券-->
+        <section class="c_coupon">
+            <ul>
+                <li>
+                    <div>
+                        <h1>60-20元</h1>
+                        <h2>二次元购物节</h2>
+                        <h2>特供优惠券</h2>
+                    </div>
+                    <div>
+                        <a class="cyc_app" data-value='{&#34;value&#34;:{&#34;product_id&#34;:&#34;10536&#34;},&#34;option&#34;:1,&#34;type&#34;:2}'>
+                            <h3>￥5</h3>
+                            <h4>立即购买</h4>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <h1>160-40元</h1>
+                        <h2>二次元购物节</h2>
+                        <h2>特供优惠券</h2>
+                    </div>
+                    <div>
+                        <a class="cyc_app" data-value='{&#34;value&#34;:{&#34;product_id&#34;:&#34;7102&#34;},&#34;option&#34;:1,&#34;type&#34;:2}'>
+                            <h3>￥5</h3>
+                            <h4>立即购买</h4>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <h1>300-80元</h1>
+                        <h2>二次元购物节</h2>
+                        <h2>特供优惠券</h2>
+                    </div>
+                    <div>
+                        <a class="cyc_app" data-value='{&#34;value&#34;:{&#34;product_id&#34;:&#34;7101&#34;},&#34;option&#34;:1,&#34;type&#34;:2}'>
+                            <h3>￥10</h3>
+                            <h4>立即购买</h4>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <h1>600-120元</h1>
+                        <h2>二次元购物节</h2>
+                        <h2>特供优惠券</h2>
+                    </div>
+                    <div>
+                        <a class="cyc_app" data-value='{&#34;value&#34;:{&#34;product_id&#34;:&#34;7100&#34;},&#34;option&#34;:1,&#34;type&#34;:2}'>
+                            <h3>￥20</h3>
+                            <h4>立即购买</h4>
+                        </a>
+                    </div>
+                </li>
+                <a class="c_more cyc_app" data-value='{"value":{},"option":2,"type":2}'>查看更多闪购商品</a>
+            </ul>
+        </section>
+
+        <!--折扣-->
+        <section class="c_discount">
+            <div class="c_title">
+                <img src="http://act.cycangcdn.com/20161111/wap/discount_title.png" alt="">
+            </div>
+            <div class="c_discount_wrap">
+               <!-- <div class="c_select">
+                <p class="c_selected J_hot">八大热销精选品牌</p>
+                <p class="J_good">次元好物聚集地</p>
+               </div> -->
+                <!--热销品牌-->
+                <div class="c_hot">
+                    <div class="c_sub_title">
+                        <img src="http://act.cycangcdn.com/20161111/wap/hot_title.png" alt="">
+                    </div>
+                    <ul>
+                        
+                            <li class="c_long_li">
+                                <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;tumo&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                    <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/hot/tumowang.png" class="c_lazyload">
+                                </a>
+                            </li>
+                        
+                            <li class="c_long_li">
+                                <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;Uwowo&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                    <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/hot/uwowo.png" class="c_lazyload">
+                                </a>
+                            </li>
+                        
+                            <li class="">
+                                <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;古怪舍&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                    <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/hot/guguaishe.png" class="c_lazyload">
+                                </a>
+                            </li>
+                        
+                            <li class="">
+                                <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;MIXX&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                    <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/hot/mixx.png" class="c_lazyload">
+                                </a>
+                            </li>
+                        
+                            <li class="">
+                                <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;桂&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                    <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/hot/gui.png" class="c_lazyload">
+                                </a>
+                            </li>
+                        
+                            <li class="">
+                                <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;Neverland&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                    <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/hot/neverland.png" class="c_lazyload">
+                                </a>
+                            </li>
+                        
+                            <li class="">
+                                <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;绝对萌域&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                    <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/hot/moeyu.png" class="c_lazyload">
+                                </a>
+                            </li>
+                        
+                            <li class="">
+                                <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;蜜茶联萌&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                    <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/hot/micha.png" class="c_lazyload">
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+
+                <!--好物集聚-->
+                <div class="c_good">
+                    <div class="c_sub_title">
+                        <img src="http://act.cycangcdn.com/20161111/wap/good_tilte.png" alt="">
+                    </div>
+                    <ul>
+                        
+                        <li class="c_long_li">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;粗卤&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/chulu.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="c_long_li">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;海鸟跨境&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/hainiao.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="c_long_li">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;味蕾之诗&#34;,&#34;catalog_id&#34;:&#34;0&#34;,&#34;brand_id&#34;:&#34;440&#34;,&#34;price&#34;:&#34;1|1000&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/weilei.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="c_long_li">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;寒山渡&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/hanshan.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;南萌北逗&#34;,&#34;catalog_id&#34;:&#34;0&#34;,&#34;brand_id&#34;:&#34;464&#34;,&#34;price&#34;:&#34;1|1000&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/moen.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;漫踪&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/manzon.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;Cluci&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/ccc.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;【MG】&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/honest.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;漫能&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/manneng.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;尚萌&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/shamoe.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;HELLO KITTY&#34;,&#34;catalog_id&#34;:&#34;0&#34;,&#34;brand_id&#34;:&#34;420&#34;,&#34;price&#34;:&#34;1|1000&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/hello.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;画影&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/huaying.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;两疏堂&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/liangshutang.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;小迷兔&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/xiaomitu.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;udz&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/udz.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;疯兔盒子&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/fengtu.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;砚池工作室&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/yanci.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                        <li class="">
+                            <a class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;独角兽浆果&#34;},&#34;option&#34;:2,&#34;type&#34;:1}">
+                                <img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/good/chloe.png" class="c_lazyload">
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!--ip专区-->
+        <section class="c_ip">
+            <div class="c_title">
+                <img src="http://act.cycangcdn.com/20161111/wap/ip_title.png" alt="">
+            </div>
+            <ul>
+                
+                    <li><a  class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;全职高手&#34;},&#34;option&#34;:2,&#34;type&#34;:1}" ><img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/ip/quanzhi.png" class="c_lazyload"></a></li>
+                
+                    <li><a  class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;剑三&#34;},&#34;option&#34;:2,&#34;type&#34;:1}" ><img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/ip/jiansan.png" class="c_lazyload"></a></li>
+                
+                    <li><a  class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;长草颜文字&#34;,&#34;catalog_id&#34;:&#34;0&#34;,&#34;brand_id&#34;:&#34;291&#34;,&#34;price&#34;:&#34;1|1000&#34;},&#34;option&#34;:2,&#34;type&#34;:1}" ><img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/ip/yanwenzi.png" class="c_lazyload"></a></li>
+                
+                    <li><a  href="http://act.cycang.com/oper/1476354034app.html" ><img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/ip/miao.png" class="c_lazyload"></a></li>
+                
+                    <li><a  href="http://act.cycang.com/oper/1477995997app.html" ><img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/ip/qiudong.png" class="c_lazyload"></a></li>
+                
+                    <li><a  class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;流行梗&#34;},&#34;option&#34;:2,&#34;type&#34;:1}" ><img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/ip/liuxing.png" class="c_lazyload"></a></li>
+                
+                    <li><a  class="cyc_app" data-value="{&#34;value&#34;:{&#34;channel_id&#34;:&#34;0&#34;,&#34;keyword&#34;:&#34;暴走漫画&#34;,&#34;catalog_id&#34;:&#34;0&#34;,&#34;brand_id&#34;:&#34;438&#34;,&#34;price&#34;:&#34;1|1000&#34;},&#34;option&#34;:2,&#34;type&#34;:1}" ><img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/ip/baozou.png" class="c_lazyload"></a></li>
+                
+                    <li><a  class="cyc_app" data-value="{&#34;value&#34;:{&#34;keyword&#34;:&#34;吾皇万睡&#34;},&#34;option&#34;:2,&#34;type&#34;:1}" ><img src="http://m.cycang.com/Public/build/img/loading.jpg" data-original="http://act.cycangcdn.com/20161111/wap/ip/wuwang.png" class="c_lazyload"></a></li>
+                
+            </ul>
+        </section>
+
+        <!--狗粮-->
+        <section class="c_dog">
+            <div class="c_title">
+                <img src="http://act.cycangcdn.com/20161111/wap/dog_title.png" alt="">
+            </div>
+            
+            <div class="c_dog_wrap">
+                <p><a href="http://act.cycang.com/oper/1478763176app.html">点击进入11.1元狗粮专区</a></p>                
+                <p><a href="http://act.cycang.com/oper/1478169868app.html">点击进入111.1元狗粮专区</a></p>
+            </div>
+        </section>
+
+        <!--todo 规则-->
+        <section class="c_rule">
+            <img src="http://act.cycangcdn.com/20161111/wap/tiezhi.png" alt="">
+            <div class="c_rule_wrap">
+                <h1>二次元购物节活动规则</h1>
+                <p class="c_first">1.二次元购物节活动时间: 11月10日18:00:00-11月13日23:59:59，活动期间，凡购买次元仓自营商品，发货时将免费赠送一张小仓专属定制贴纸。</p>
+                <p>2.二次元购物节活动期间，四种二次元购物节特供优惠券登陆闪购仓，分别是满60-20优惠券（5元购买可得，买满60元可用）、满160-40优惠券（5元购买可得，买满160元可用）、满300-80优惠券（10元购买可得，买满300元可得）和满600-120优惠券（20元购买可得，买满600元可用）。二次元购物节特供优惠券售卖时间： 11月10日18:00:00-11月13日23:59:59。</p>
+                <p>3.二次元购物节优惠券使用时间：11月10日18:00:00-11月13日23:59:59。</p>
+                <p>4.11月10日—11月13日二次元购物节活动期间，每个订单仅可叠加一张优惠券进行结算。</p>
+                <p>5.欧气大转盘活动期间（11月2日16:00:00-11月10日23:59:59） 用户通过欧气大转盘活动所抽中的优惠券可跨供应商使用，使用期限为11月10日18:00:00-11月13日23:59:59。</p>
+                <p>6.优惠券一经购买，即时充入用户账户中，用户可在“我的优惠券”一栏中查看。优惠券不接受折现和替换。</p>
+                <p>7.使用优惠券的订单不支持合并。</p>
+                <p>8.优惠券一经使用不予退回，若产生退换，金额按比例分摊，退款金额不超过实际支付金额。</p>
+                <footer>—次元仓在法律允许的范围内对本次活动进行解释—</footer>
+            </div>
+        </section>
+    </article>
+
+    <a href="#top" class="c_go_top"></a>
+
+    <input id="cyc_share_url" type="hidden" value="http://act.cycang.com/act20161111">
+    <!--for login-->
+    <input type="hidden" id="smsUrl" value="">
+    <input type="hidden" id="oldUserUrl" value="">
+    <input type="hidden" id="newUserUrl" value="">
+
+    <input type="hidden" id="type" value="2">
+    <input type="hidden" id="getVoteUrl" value="">
+    <input type="hidden" id="times" value="">
+    
+    <script src="http://s1.cycangcdn.com/pc/js/plugins/zepto.min.ex.js"></script>
+    <script src="http://act.cycangcdn.com/js/lazyload.min.js"></script>
+
+    <script>
+        var browser = {
+            versions:(function(){
+                var u = navigator.userAgent, app = navigator.appVersion;
+                return {         //移动终端浏览器版本信息
+                    trident: u.indexOf('Trident') > -1, //IE内核
+                    presto: u.indexOf('Presto') > -1, //opera内核
+                    webKit: u.indexOf('AppleWebKit') > -1, //苹果、谷歌内核
+                    gecko: u.indexOf('Gecko') > -1 && u.indexOf('KHTML') == -1, //火狐内核
+                    mobile: !!u.match(/AppleWebKit.*Mobile.*/), //是否为移动终端
+                    ios: !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/), //ios终端
+                    android: u.indexOf('Android') > -1 || u.indexOf('Linux') > -1, //android终端或uc浏览器
+                    iPhone: u.indexOf('iPhone') > -1 , //是否为iPhone或者QQHD浏览器
+                    iPad: u.indexOf('iPad') > -1, //是否iPad
+                    webApp: u.indexOf('Safari') == -1 //是否web应该程序，没有头部与底部
+                };
+             })(),
+        }
+        var app = {
+            UI: {
+                a: '.cyc_app'
+            },
+            init: function(linkUI){
+                if(linkUI) this.UI.a = linkUI;
+                var that = this;
+                $('body').on('tap', that.UI.a, function(){
+                    var data = $(this).attr('data-value');
+                    that.appLink(data);
+                });
+            },
+            appLink: function(data){
+                if(browser.versions.mobile){ 
+                    if(browser.versions.ios){
+                      // console.log("cyc://CYCJs2IOS.jumpForIOS#"+data+"");
+                      window.location = "cyc://CYCJs2IOS.jumpForIOS#" + data + "";
+                    }else if(browser.versions.android){
+                          // android todo
+                          if(window.cyc && window.cyc.jumpForAndroid){
+                            window.cyc.jumpForAndroid(data + "");
+                         }
+                    }
+                }
+            }
+        };
+        $(function(){
+            var $hotBtn = $('.J_hot')
+              , $goodBtn = $('.J_good')
+              , $hotBox = $('.c_hot')
+              , $goodBox = $('.c_good');
+
+            app.init();
+
+            $('.c_lazyload').lazyload();
+            $(window).on('scroll', function(){
+                if ($(this).scrollTop() > 500) {
+                    $('.c_go_top').show();
+                } else {
+                    $('.c_go_top').hide();
+                }
+            });
+        })
+    </script>
+
+<!-- act.cycang.com Baidu tongji analytics -->
+<div style="display:none">
+    <script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F415894875f9f1f85345f324154af63c9' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+</div>
+</body>
+</html>

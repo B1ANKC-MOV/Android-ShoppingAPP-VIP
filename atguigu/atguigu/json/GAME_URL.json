@@ -1,0 +1,108 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": [
+        {
+            "child": [
+                {
+                    "is_deleted": "0",
+                    "name": "AR专区",
+                    "p_catalog_id": "42",
+                    "parent_id": "8",
+                    "pic": "/product_catalog/1446017464778.jpg"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "brand_id": "72",
+                    "brief": "",
+                    "channel_id": "3",
+                    "cover_price": "15.00",
+                    "figure": "/1448549924430.jpg",
+                    "name": "【官方正版】全职高手  叶修 苏沐橙 尚硅谷 AR卡",
+                    "p_catalog_id": "42",
+                    "product_id": "3041",
+                    "sell_time_end": "1449072000",
+                    "sell_time_start": "1448467200",
+                    "supplier_code": "0",
+                    "supplier_type": "1"
+                },
+                {
+                    "brand_id": "8",
+                    "brief": "",
+                    "channel_id": "4",
+                    "cover_price": "12.00",
+                    "figure": "/1448610769178.jpg",
+                    "name": "尚硅谷 AR卡AR同人卡 刀剑乱舞 三日月宗近 小狐丸2.5次元",
+                    "p_catalog_id": "42",
+                    "product_id": "3056",
+                    "sell_time_end": "1449158400",
+                    "sell_time_start": "1448553600",
+                    "supplier_code": "0",
+                    "supplier_type": "1"
+                },
+                {
+                    "brand_id": "5",
+                    "brief": "",
+                    "channel_id": "8",
+                    "cover_price": "69.00",
+                    "figure": "/1464776087422.jpg",
+                    "name": "【尚硅谷出品】一发入魂 BUFFT恤 ART恤 2.5次元",
+                    "p_catalog_id": "42",
+                    "product_id": "6805",
+                    "sell_time_end": "1465315200",
+                    "sell_time_start": "1464710400",
+                    "supplier_code": "0",
+                    "supplier_type": "1"
+                },
+                {
+                    "brand_id": "42",
+                    "brief": "",
+                    "channel_id": "3",
+                    "cover_price": "12.00",
+                    "figure": "/1448613918568.jpg",
+                    "name": "尚硅谷 AR卡AR同人卡 黑执事系列动漫 漫画 塞巴斯蒂安 夏尔",
+                    "p_catalog_id": "42",
+                    "product_id": "3067",
+                    "sell_time_end": "1449158400",
+                    "sell_time_start": "1448553600",
+                    "supplier_code": "0",
+                    "supplier_type": "1"
+                },
+                {
+                    "brand_id": "86",
+                    "brief": "",
+                    "channel_id": "4",
+                    "cover_price": "12.00",
+                    "figure": "/1448615420723.jpg",
+                    "name": "尚硅谷 AR卡AR同人卡 K系列 伊佐那社 夜刀神狗朗 伏见美咲 2.5次元",
+                    "p_catalog_id": "42",
+                    "product_id": "3078",
+                    "sell_time_end": "1449158400",
+                    "sell_time_start": "1448553600",
+                    "supplier_code": "0",
+                    "supplier_type": "1"
+                },
+                {
+                    "brand_id": "20",
+                    "brief": "此宝贝需结合2.5次元应用使用 下载地址：http://www.artongren.com/download/",
+                    "channel_id": "4",
+                    "cover_price": "48.00",
+                    "figure": "/1432113201786.jpg",
+                    "name": "尚硅谷 AR卡AR同人卡 vocaloid/V家 初音未来 系列全套装 全套4款",
+                    "p_catalog_id": "42",
+                    "product_id": "56",
+                    "sell_time_end": "0",
+                    "sell_time_start": "0",
+                    "supplier_code": "0",
+                    "supplier_type": "1"
+                }
+            ],
+            "is_deleted": "0",
+            "name": "游戏专区",
+            "p_catalog_id": "8",
+            "parent_id": "0",
+            "pic": ""
+        }
+    ]
+}

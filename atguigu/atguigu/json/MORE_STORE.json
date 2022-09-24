@@ -1,0 +1,96 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": [
+        {
+            "channel_name": "服饰",
+            "image": "/app/img/menu-cyc.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "8"
+            }
+        },
+        {
+            "channel_name": "游戏",
+            "image": "/app/img/menu-game.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "4"
+            }
+        },
+        {
+            "channel_name": "动漫",
+            "image": "/app/img/menu-carttoon.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "3"
+            }
+        },
+        {
+            "channel_name": "装扮",
+            "image": "/app/img/menu-cosplay.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "5"
+            }
+        },
+        {
+            "channel_name": "古风",
+            "image": "/app/img/menu-oldage.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "6"
+            }
+        },
+        {
+            "channel_name": "动漫",
+            "image": "/app/img/menu-collect.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "9"
+            }
+        },
+        {
+            "channel_name": "文具",
+            "image": "/app/img/menu-stationery.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "11"
+            }
+        },
+        {
+            "channel_name": "零食",
+            "image": "/app/img/menu-snack.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "10"
+            }
+        },
+        {
+            "channel_name": "首饰",
+            "image": "/app/img/menu-jewelry.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "12"
+            }
+        },
+        {
+            "channel_name": "手办",
+            "image": "/app/img/menu-model.png",
+            "option": 2,
+            "type": 1,
+            "value": {
+                "channel_id": "13"
+            }
+        }
+    ]
+}

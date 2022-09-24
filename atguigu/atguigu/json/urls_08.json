@@ -1,0 +1,157 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": {
+        "brand_data": false,
+        "catalog_data": false,
+        "is_recommended": "1",
+        "page_data": [
+            {
+                "brand_id": "441",
+                "brief": "我想给你一个不一样的生日，用8种语言对你说生日快乐~  收到礼物的TA一定会超惊喜啦 o(*≧▽≦)ツ",
+                "channel_id": "10",
+                "cover_price": "67.90",
+                "figure": "/supplier/1472023903092.jpg",
+                "name": "【疯兔盒子】用8种语言对你说生日快乐 【创意生日礼物】 进口零食",
+                "origin_price": "78.00",
+                "p_catalog_id": "99",
+                "product_id": "8536"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478771356352.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 给机会多说",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10612"
+            },
+            {
+                "brand_id": "441",
+                "brief": "o(*≧▽≦)ツ 8寸蛋糕大小的盒子，用9种语言说我爱你，慢满满创意和惊喜~",
+                "channel_id": "10",
+                "cover_price": "86.10",
+                "figure": "/supplier/1472031204907.jpg",
+                "name": "【疯兔盒子】  用9种语言说我爱你 【创意表白】进口零食",
+                "origin_price": "99.00",
+                "p_catalog_id": "99",
+                "product_id": "8551"
+            },
+            {
+                "brand_id": "100",
+                "brief": "<span style="color: rgb(153, 153, 153); font-family: tahoma, arial, 微软雅黑, sans-serif; line-height: 18px;">来自星星的你不容错过的暖心童话绘本集，LISK、贵图子等漫画家为你打造星空之城！带给你不一样的童话阅读体验，唤起你童年记忆里柔软的渴望</span><br />",
+                "channel_id": "3",
+                "cover_price": "24.00",
+                "figure": "/1445833851245.jpg",
+                "name": "《星空之城》 暖心童话绘本集 诉说六个星空下的精彩故事",
+                "origin_price": "29.80",
+                "p_catalog_id": "24",
+                "product_id": "2434"
+            },
+            {
+                "brand_id": "100",
+                "brief": "",
+                "channel_id": "6",
+                "cover_price": "22.00",
+                "figure": "/1439443195494.jpg",
+                "name": "《白蛇》 柳宫燐 首次创作短篇小说 策马天下 古风彩图 漫画",
+                "origin_price": "22.00",
+                "p_catalog_id": "24",
+                "product_id": "663"
+            },
+            {
+                "brand_id": "36",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "25.00",
+                "figure": "/1433745952842.jpg",
+                "name": "【正版授权】秦时明月原著小说(全册8本)",
+                "origin_price": "25.00",
+                "p_catalog_id": "24",
+                "product_id": "83"
+            },
+            {
+                "brand_id": "348",
+                "brief": "",
+                "channel_id": "13",
+                "cover_price": "767.00",
+                "figure": "/1458717113419.jpg",
+                "name": "【猫受屋】ALTER Tales of Zestiria 情热传说 艾多娜 手办【全款预定】",
+                "origin_price": "767.00",
+                "p_catalog_id": "48",
+                "product_id": "5562"
+            },
+            {
+                "brand_id": "384",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "49.00",
+                "figure": "/1465701233183.jpg",
+                "name": "【宅电舍】 对方不想和你说话并向你扔了一只狗 表情包 抱枕 ",
+                "origin_price": "130.00",
+                "p_catalog_id": "22",
+                "product_id": "6975"
+            },
+            {
+                "brand_id": "424",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "49.00",
+                "figure": "/supplier/1468239163650.jpg",
+                "name": "【漫能出品】商城对方不想和你说话并且向你扔了一只狗   玩具抱枕狗",
+                "origin_price": "128.00",
+                "p_catalog_id": "22",
+                "product_id": "7922"
+            },
+            {
+                "brand_id": "5",
+                "brief": "304文化&绪慈（威向文化） 
+赵小春 cn黄靖翔
+东方云倾 cn乐乐 
+经典耽美小说《浪荡江湖之药师》",
+                "channel_id": "3",
+                "cover_price": "160.00",
+                "figure": "/supplier/1469607872576.jpg",
+                "name": "【304文化&绪慈】浪荡江湖之药师 黄靖翔 乐乐封面 特别套组版小说 次元文化；",
+                "origin_price": "160.00",
+                "p_catalog_id": "24",
+                "product_id": "8451"
+            },
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "59.00",
+                "figure": "/1452828890543.jpg",
+                "name": "【SYS】春联来啦&双福到",
+                "origin_price": "101.00",
+                "p_catalog_id": "27",
+                "product_id": "4094"
+            },
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "39.00",
+                "figure": "/1452768636880.jpg",
+                "name": "【SYS】贴门神 保平安",
+                "origin_price": "69.00",
+                "p_catalog_id": "27",
+                "product_id": "4090"
+            },
+            {
+                "brand_id": "5",
+                "brief": "红包一套十个",
+                "channel_id": "3",
+                "cover_price": "19.00",
+                "figure": "/1452766751335.jpg",
+                "name": "【SYS艺术说】红包来啦",
+                "origin_price": "39.00",
+                "p_catalog_id": "90",
+                "product_id": "4086"
+            }
+        ]
+    }
+}

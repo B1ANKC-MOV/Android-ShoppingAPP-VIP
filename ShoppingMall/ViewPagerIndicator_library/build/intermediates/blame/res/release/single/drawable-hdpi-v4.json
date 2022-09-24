@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\community_tab_subscript.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\src\\main\\res\\drawable-hdpi\\community_tab_subscript.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\mobile\\ShoppingMall2\\ViewPagerIndicator_library\\src\\main\\res\\drawable-hdpi\\tab.png"
+    }
+]

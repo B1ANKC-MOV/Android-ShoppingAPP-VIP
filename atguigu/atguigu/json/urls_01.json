@@ -1,0 +1,55 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": {
+        "brand_data": false,
+        "catalog_data": false,
+        "is_recommended": "0",
+        "page_data": [
+            {
+                "brand_id": "5",
+                "brief": "此商品只作为补差价或邮费专用，小伙伴们不要乱拍呀~差几元拍几个~  o(*≧▽≦)ツ",
+                "channel_id": "3",
+                "cover_price": "1.00",
+                "figure": "/1452742997932.jpg",
+                "name": "尚硅谷邮费补拍专用万能拍【请不要乱拍哦~】",
+                "origin_price": "1.00",
+                "p_catalog_id": "100",
+                "product_id": "4063"
+            },
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "69.00",
+                "figure": "/1478593271170.jpg",
+                "name": "【尚硅谷】超萌 捧心 尚硅谷 毛绒公仔【全款预售】",
+                "origin_price": "69.00",
+                "p_catalog_id": "29",
+                "product_id": "10545"
+            },
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "69.00",
+                "figure": "/1464776087422.jpg",
+                "name": "【尚硅谷出品】一发入魂 BUFFT恤 ART恤 2.5次元",
+                "origin_price": "69.00",
+                "p_catalog_id": "42",
+                "product_id": "6805"
+            },
+            {
+                "brand_id": "394",
+                "brief": "尚硅谷双十一特供小狐狸羽织！！小仓特意委托画影工作室制作了一批红黑款小狐狸羽织(๑•̀ㅂ•́)و✧，会在双十一活动期间出售哦！！（特供款不含发带、裙子）",
+                "channel_id": "8",
+                "cover_price": "111.10",
+                "figure": "/1477560742373.jpg",
+                "name": "【画影】现货 尚硅谷特供 小狐狸羽织--红黑款",
+                "origin_price": "132.00",
+                "p_catalog_id": "67",
+                "product_id": "10290"
+            }
+        ]
+    }
+}

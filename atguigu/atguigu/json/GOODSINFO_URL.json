@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>404-次元仓</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<meta content="telephone=no" name="format-detection" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link type="text/css" rel="stylesheet" href="http://app.cycang.com/Public/build/css/shop/error.css">
+</head>
+<body class="gray">
+  <div class="floor error-floor">
+    <a href="index.php"><img src="http://app.cycang.com/Public/build/img/404.jpg" alt="错误页" width="100%"></a>
+      </div>
+  <script>
+        </script>
+<!--footer start-->
+<!-- goto top start-->
+<a class="c_fix_top" href="#c-totop"></a>
+<!-- goto top end -->
+<div class="footer" id="footer">
+<!-- app.cycang.com Baidu tongji analytics -->
+<div style="display:none;">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F81065fdc6c9af70a715e54e7af03cfa5' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+<!--footer end-->
+</body>
+</html>

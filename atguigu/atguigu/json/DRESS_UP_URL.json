@@ -1,0 +1,132 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": [
+        {
+            "child": [
+                {
+                    "is_deleted": "0",
+                    "name": "服装",
+                    "p_catalog_id": "18",
+                    "parent_id": "4",
+                    "pic": "/product_catalog/1446016631439.jpg"
+                },
+                {
+                    "is_deleted": "0",
+                    "name": "假发",
+                    "p_catalog_id": "19",
+                    "parent_id": "4",
+                    "pic": "/product_catalog/1446016650875.jpg"
+                },
+                {
+                    "is_deleted": "0",
+                    "name": "道具",
+                    "p_catalog_id": "20",
+                    "parent_id": "4",
+                    "pic": "/product_catalog/1446016673365.jpg"
+                },
+                {
+                    "is_deleted": "0",
+                    "name": "妆面",
+                    "p_catalog_id": "21",
+                    "parent_id": "4",
+                    "pic": "/product_catalog/1446016713541.jpg"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "brand_id": "5",
+                    "brief": "现货~尚硅谷有售道具原材料哦~",
+                    "channel_id": "5",
+                    "cover_price": "65.00",
+                    "figure": "/1448622974578.jpg",
+                    "name": "【大公制作】COSPLAY道具制作专业教程 切割粘合上色贴皮养护方法技巧制作步骤详解 ",
+                    "p_catalog_id": "20",
+                    "product_id": "3088",
+                    "sell_time_end": "1449158400",
+                    "sell_time_start": "1448553600",
+                    "supplier_code": "0",
+                    "supplier_type": "1"
+                },
+                {
+                    "brand_id": "5",
+                    "brief": "",
+                    "channel_id": "5",
+                    "cover_price": "19.00",
+                    "figure": "/1446607168578.jpg",
+                    "name": "【主宰者】透气隐形 束胸 裹胸 cos汉子必备",
+                    "p_catalog_id": "18",
+                    "product_id": "2573",
+                    "sell_time_end": "1447171200",
+                    "sell_time_start": "1446566400",
+                    "supplier_code": "1607002",
+                    "supplier_type": "2"
+                },
+                {
+                    "brand_id": "436",
+                    "brief": "",
+                    "channel_id": "5",
+                    "cover_price": "94.50",
+                    "figure": "/supplier/1471315793182.jpg",
+                    "name": "现货【桂】苏葉 洛丽塔空气刘海 青灰色日常软妹lolita原宿假发",
+                    "p_catalog_id": "19",
+                    "product_id": "8759",
+                    "sell_time_end": "0",
+                    "sell_time_start": "1478772000",
+                    "supplier_code": "1601009",
+                    "supplier_type": "2"
+                },
+                {
+                    "brand_id": "436",
+                    "brief": "精灵之舞之幻雾 空气刘海 长发及腰卷发 深灰色 长70cm",
+                    "channel_id": "5",
+                    "cover_price": "79.00",
+                    "figure": "/supplier/1469436115002.jpg",
+                    "name": "现货【桂】幻雾 洛丽塔空气刘海奶奶灰 及腰长卷发lolita日系假发",
+                    "p_catalog_id": "19",
+                    "product_id": "8351",
+                    "sell_time_end": "0",
+                    "sell_time_start": "1478772000",
+                    "supplier_code": "1601009",
+                    "supplier_type": "2"
+                },
+                {
+                    "brand_id": "286",
+                    "brief": "3-5天发货 随机保税仓直发。可以试试哦，咬唇效果很好的。染色是樱花提取物，不小心吃。这个是咬唇妆哦，不会化的，或者觉得平时用的麻烦的亲们
+可以试试哦，咬唇效果很好的。染色是樱花提取物可以食用，
+染色相对更均匀， 而且使用后不会觉得干，很滋润，非常容
+易上色，使用后颜色很好看，非常嫩~",
+                    "channel_id": "5",
+                    "cover_price": "39.00",
+                    "figure": "/1455766294751.jpg",
+                    "name": "【海鸟跨境】  泰国mistine双头咬唇唇彩",
+                    "p_catalog_id": "21",
+                    "product_id": "4638",
+                    "sell_time_end": "1456329600",
+                    "sell_time_start": "1455724800",
+                    "supplier_code": "1111001",
+                    "supplier_type": "2"
+                },
+                {
+                    "brand_id": "436",
+                    "brief": "精灵之舞系列之绿林 渐变梨花头 收脸鬓角 发尾自然内扣 爱不释手~ 自留款~",
+                    "channel_id": "5",
+                    "cover_price": "69.00",
+                    "figure": "/supplier/1469436287434.jpg",
+                    "name": "现货【桂】绿林 梨花头内扣Lolita日常绿色渐变原宿 洛丽塔假发",
+                    "p_catalog_id": "19",
+                    "product_id": "8352",
+                    "sell_time_end": "0",
+                    "sell_time_start": "1478772000",
+                    "supplier_code": "1601009",
+                    "supplier_type": "2"
+                }
+            ],
+            "is_deleted": "0",
+            "name": "装扮",
+            "p_catalog_id": "4",
+            "parent_id": "0",
+            "pic": ""
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": [
+        {
+            "add_time": "1478935514",
+            "avatar": "/img/user_icon.png",
+            "comment_list": [
+                "亲,有任何货物质量问题请及时联系我哦",
+                "亲，快来抢购吧"
+            ],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/14789355052991819.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "0",
+            "post_id": "2646",
+            "saying": "[尚硅谷购物节]抽我抽我抽我",
+            "user_id": "261219",
+            "username": "下一个明天丶高姿态活着"
+        },
+        {
+            "add_time": "1478926966",
+            "avatar": "/ugc/user/avatar/14602584403004045.png",
+            "comment_list": [
+                "亲,有任何货物质量问题请及时联系我哦",
+                "亲，快来抢购吧"
+            ],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/14789268972077411.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "0",
+            "post_id": "2645",
+            "saying": "有一张350-100的优惠券，但是感觉没有什么想买的了，毕竟吃土",
+            "user_id": "13956",
+            "username": "礿尣SAMA"
+        },
+        {
+            "add_time": "1478924129",
+            "avatar": "/img/user_icon.png",
+            "comment_list": [
+                "亲,有任何货物质量问题请及时联系我哦",
+                "亲，快来抢购吧"
+            ],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/14789239838413293.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "0",
+            "post_id": "2644",
+            "saying": "尚硅谷购物节。（ﾉ∀｀）σ你没钱了。然而作为一个穷银，并没有money。求小仓抽我，把我的爱(*´。｀*)传达到吧",
+            "user_id": "527824",
+            "username": "霞"
+        },
+        {
+            "add_time": "1478921801",
+            "avatar": "/ugc/user/avatar/14664121254125921.jpeg",
+            "comment_list": [],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/1478921704069437.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "0",
+            "post_id": "2643",
+            "saying": "［尚硅谷购物节］剁手党来补晒单！(๑>؂<๑）看看能不能抽到（｡ò ∀ ó｡）",
+            "user_id": "257648",
+            "username": "木"
+        },
+        {
+            "add_time": "1478921533",
+            "avatar": "/img/user_icon.png",
+            "comment_list": [],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/14789215131699196.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "1",
+            "post_id": "2642",
+            "saying": "求好运QuQ",
+            "user_id": "55746",
+            "username": "PaleCrow"
+        }
+    ]
+}

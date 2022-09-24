@@ -1,0 +1,231 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": {
+        "brand_data": false,
+        "catalog_data": false,
+        "is_recommended": "0",
+        "page_data": [
+            {
+                "brand_id": "77",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "25.00",
+                "figure": "/1442219020234.jpg",
+                "name": "【喵鹿酱】毛绒公仔 喵星人 萌萌哒  饼干猫咪抱枕",
+                "origin_price": "25.00",
+                "p_catalog_id": "22",
+                "product_id": "1365"
+            },
+            {
+                "brand_id": "77",
+                "brief": "",
+                "channel_id": "12",
+                "cover_price": "25.00",
+                "figure": "/1461122800918.jpg",
+                "name": "【Honest首饰】925银戒指 线条 喵星人 概念猫耳戒指",
+                "origin_price": "29.00",
+                "p_catalog_id": "73",
+                "product_id": "6036"
+            },
+            {
+                "brand_id": "77",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "49.00",
+                "figure": "/1451107788981.jpg",
+                "name": "【漫踪】原创 EVA 明日香 喵星人 超萌猫耳帽 徽章帽 遮阳帽子",
+                "origin_price": "69.00",
+                "p_catalog_id": "70",
+                "product_id": "3722"
+            },
+            {
+                "brand_id": "77",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "48.00",
+                "figure": "/1458284283746.jpg",
+                "name": "[散漫舍]颜文字炸鸡块萌系猫咪喵星人单肩绒毛",
+                "origin_price": "68.00",
+                "p_catalog_id": "82",
+                "product_id": "3346"
+            },
+            {
+                "brand_id": "77",
+                "brief": "ACG作品名: 颜文字出售状态: 现货动漫地区: 日本周边产品: 抱枕/靠垫品牌: 漫趣型号: 颜文字材质: 毛绒",
+                "channel_id": "3",
+                "cover_price": "59.00",
+                "figure": "/1435655316506.jpg",
+                "name": "【漫趣】颜文字 炸鸡块 抱枕 天使 喵星人 午睡枕",
+                "origin_price": "69.00",
+                "p_catalog_id": "22",
+                "product_id": "291"
+            },
+            {
+                "brand_id": "254",
+                "brief": "预售期至11月22日，出货后将按订单顺序安排发货噢~",
+                "channel_id": "3",
+                "cover_price": "49.00",
+                "figure": "/1478684458165.jpg",
+                "name": "预售【漫踪】尚硅谷毛绒玩偶秋冬保暖喵星人猫咪后院暖手捂大抱枕",
+                "origin_price": "0.00",
+                "p_catalog_id": "22",
+                "product_id": "10577"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478771479131.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 早睡醒了",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10613"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478770606292.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 上天",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10606"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478770259484.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 人生苦短",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10605"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478771356352.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 给机会多说",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10612"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478771175422.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 洪荒之力",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10611"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478771065211.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 嘿嘿嘿",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10609"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478770896479.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 上车了",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10608"
+            },
+            {
+                "brand_id": "383",
+                "brief": "",
+                "channel_id": "8",
+                "cover_price": "31.20",
+                "figure": "/1478770777024.jpg",
+                "name": "【蜜茶联萌】原创喵星人流行梗 纯棉长袖T恤 日常创意打底 静静看着",
+                "origin_price": "39.00",
+                "p_catalog_id": "56",
+                "product_id": "10607"
+            },
+            {
+                "brand_id": "77",
+                "brief": "",
+                "channel_id": "12",
+                "cover_price": "19.00",
+                "figure": "/1461121730483.jpg",
+                "name": "【Honest】925银耳钉 喵星人 精灵猫",
+                "origin_price": "29.00",
+                "p_catalog_id": "73",
+                "product_id": "6033"
+            },
+            {
+                "brand_id": "5",
+                "brief": "",
+                "channel_id": "12",
+                "cover_price": "28.00",
+                "figure": "/1467626635120.png",
+                "name": "【Honest首饰】 925银耳钉 白金版  可爱小猫咪 喵星人 简约",
+                "origin_price": "39.00",
+                "p_catalog_id": "73",
+                "product_id": "7725"
+            },
+            {
+                "brand_id": "182",
+                "brief": "",
+                "channel_id": "3",
+                "cover_price": "20.00",
+                "figure": "/1437034378542.jpg",
+                "name": "【天闻角川】直供  喵星人 挂绳卡套02·西瓜",
+                "origin_price": "20.00",
+                "p_catalog_id": "37",
+                "product_id": "385"
+            },
+            {
+                "brand_id": "77",
+                "brief": "",
+                "channel_id": "12",
+                "cover_price": "17.00",
+                "figure": "/1461122483808.jpg",
+                "name": "【Honest】925银耳钉 喵星人 卷尾猫",
+                "origin_price": "27.00",
+                "p_catalog_id": "73",
+                "product_id": "6035"
+            },
+            {
+                "brand_id": "77",
+                "brief": "",
+                "channel_id": "5",
+                "cover_price": "25.00",
+                "figure": "/1435115327659.jpg",
+                "name": "【orz漫工厂】cosplay 百搭饰品 猫领结 铃铛 猫爪 喵星人手套",
+                "origin_price": "30.00",
+                "p_catalog_id": "20",
+                "product_id": "234"
+            },
+            {
+                "brand_id": "77",
+                "brief": "",
+                "channel_id": "12",
+                "cover_price": "26.00",
+                "figure": "/1461123395992.jpg",
+                "name": "【Honest】925银戒指 Hello kitty 喵星人 开口可调节戒指",
+                "origin_price": "38.00",
+                "p_catalog_id": "73",
+                "product_id": "6039"
+            }
+        ]
+    }
+}
